@@ -14,3 +14,11 @@ T，S，D
 
 C  F  G
 C  F  G
+
+
+
+
+C    E    G
+G    C    E
+E    G    C
+C    C    C
