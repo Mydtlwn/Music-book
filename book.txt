@@ -40,3 +40,5 @@ B'=[T(L)，S(L)，D(H)]   //harmonic minor
 A[1]=[T，D，T]
 B[1]=[T，S，T]
 M[1]=[T，S，D，T]
+A[2]=[T，D]
+A[3]=[D，T]
