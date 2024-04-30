@@ -119,3 +119,10 @@ E    D    2       C    B    2
 C    B    2       E    D    2
 C    G    4       C    G    4
 
+
+
+G     G
+C     D
+E     B
+C     G
+
