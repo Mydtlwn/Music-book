@@ -31,8 +31,9 @@ B=[5，6，8]
 
 
 
-A=[T(H)，S(H)，D(H)]
-B'=[T(L)，S(L)，D(H)]
+A=[T(H)，S(H)，D(H)]    //Natural major
+B'=[T(L)，S(L)，D(H)]   //harmonic minor
+
 
 
 
