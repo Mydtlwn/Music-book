@@ -151,7 +151,16 @@ C    C  1    E     F   2
 C    F  4    C     F   4
 
 
-G     F
+G     F   
 C     C
 E     A
 C     F
+
+
+
+
+Melody connection method
+
+
+
+
