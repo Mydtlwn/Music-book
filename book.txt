@@ -142,3 +142,16 @@ C    C     A     A    F    F
 A    F     F     C    C    A
 F    A     C     F    A    C
 F    F     F     F    F    F
+
+
+
+G    A  2    G     A   2
+E    F  2    C     C   1
+C    C  1    E     F   2
+C    F  4    C     F   4
+
+
+G     F
+C     C
+E     A
+C     F
