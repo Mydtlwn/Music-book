@@ -126,3 +126,19 @@ C     D
 E     B
 C     G
 
+
+
+
+
+
+G    G    E    E    C   C
+E    C    C    G    G   E
+C    E    G    C    E   G
+C    C    C    C    C   C
+
+
+
+C    C     A     A    F    F
+A    F     F     C    C    A
+F    A     C     F    A    C
+F    F     F     F    F    F
