@@ -162,5 +162,9 @@ C     F
 Melody connection method
 
 
+G    B   3
+E    G   3
+C    D   2
+C    G   4
 
 
