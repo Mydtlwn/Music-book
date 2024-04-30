@@ -107,10 +107,15 @@ C    E    G    C    E   G
 C    C    C    C    C   C
 
 
+D    D    B    B    G   G
+B    G    G    D    D   B
+G    B    D    G    B   D
+G    G    G    G    G   G
 
 
 
-
-
-
+G    G    1       G    G    1
+E    D    2       C    B    2
+C    B    2       E    D    2
+C    G    4       C    G    4
 
