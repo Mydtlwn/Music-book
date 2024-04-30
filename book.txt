@@ -93,3 +93,24 @@ F     G
 
 
 F=[Null]
+
+
+
+
+harmony connection method 
+
+
+
+G    G    E    E    C   C
+E    C    C    G    G   E
+C    E    G    C    E   G
+C    C    C    C    C   C
+
+
+
+
+
+
+
+
+
