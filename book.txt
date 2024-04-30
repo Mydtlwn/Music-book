@@ -60,3 +60,36 @@ C=[C，Y，R]
 A=[4,5]
 B=[3]
 C=[2]
+
+
+G    D
+E    B
+C    G
+
+
+C=[G]
+
+
+G    C
+E    A
+C    F
+
+
+D=[C]
+
+G    B
+E    G
+C    E
+
+
+E=[E，G]
+
+
+C     D
+A     B
+F     G
+
+
+
+
+F=[Null]
